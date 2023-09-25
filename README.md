@@ -1,1 +1,1 @@
-# metallb-resources
+# metallb-resources-operator

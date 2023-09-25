@@ -4,7 +4,6 @@ metadata:
   namespace: metallb-system
   name: mlb-pool
 spec:
-  protocol: layer2
   autoAssign: false ##false if IP assignment will be done manually in the Service configuration
   addresses:
   - 192.168.1.0/24 ##CIDR format
